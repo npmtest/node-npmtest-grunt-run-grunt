@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [grunt-run-grunt (v0.1.4)](https://github.com/Bartvds/grunt-run-grunt)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-run-grunt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-run-grunt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-run-grunt.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-run-grunt)",
+    "description": "#### basic test coverage for  [grunt-run-grunt (v0.1.4)](https://github.com/Bartvds/grunt-run-grunt)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-run-grunt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-run-grunt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-run-grunt.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-run-grunt)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "grunt-run-grunt": "*",
